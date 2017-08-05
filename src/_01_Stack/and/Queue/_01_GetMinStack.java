@@ -53,7 +53,7 @@ class Mystack1{
 }
 
 
-/* 如果newNum比但钱最小值大，则stackMin同步压入最小元素，即重复压入
+/* 如果newNum比当前最小值大，则stackMin同步压入最小元素，即重复压入
 */
 class MyStack2{
 	private Stack<Integer> stackData;
